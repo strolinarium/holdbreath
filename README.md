@@ -1,2 +1,1 @@
 # holdbreath
-theme: minima
